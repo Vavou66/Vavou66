@@ -2,9 +2,12 @@
 * 👋 Salut, je suis @Vavou66
 * ✨ Je suis en terminale dans une filière générale et plus centrée sur l'informatique
 * 🌱 J'apprends actuellement à coder
-* 🌎 Je voudrais plus tard travailler dans le domaine de l'informatique, dans un pays étranger hispanophone
+* 🌎 Je voudrais plus tard travailler dans le domaine de l'informatique, dans un pays hispanophone
 ## Mes centre d'intérets
-* 👀 Je suis intéressée par **la musique, la moto, les livres**
+* 👀 Je suis intéressée par
+  - [x] la musique *(le chant et le piano)* 🎼  
+  - [x] les livres 📚
+  - [x] la moto 🏍️
 * 😃 Je pratique la **natation** depuis 7 ans maintenant, et je ne suis pas prête d'arrêter
 ## objectif
 * 💞️ je cherche à collaborer sur des projets informatiques en lien avec l'écologie et la musique
